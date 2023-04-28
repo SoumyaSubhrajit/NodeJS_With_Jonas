@@ -28,6 +28,6 @@ const sendEmail = async option => {
     console.error(error);
   }
 }
-// This is new for the changes that I want to make here..
+
 // this is the cause that you have made this so far..
 module.exports = sendEmail;
